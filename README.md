@@ -1,4 +1,4 @@
-# python-module-2-homework
+PyBank Project
 
 Slowly but surely... getting better!
 
