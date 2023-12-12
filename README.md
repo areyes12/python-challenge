@@ -1,5 +1,5 @@
-PyBank Project
+Budget Maker Proof-of-Concept
 
-Slowly but surely... getting better!
+Originally coded June 23'
 
-Never knew Pandas would become my best friend! 
+- fintechlex
